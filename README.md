@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently doing my bachelors in CS<br>I'm interested in client side and back end development.<br>I love to apply logic.<br>I'm currently learning React and .NET.<br>
+Full Stack MERN and Laravel Developer<br>Interested in Web, AI and ML.<br>I love to apply logic.<br>
 
 
 ## 🌐 Socials:
