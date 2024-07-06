@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Laravel and Reactjs<br>👯I'm looking to collaborate on full stack web and mobile applications<br>🌱 I'm currently learning Go and Flutter<br>⚡ Fun Fact: I'm an avid outdoors-man
+🔭 I'm currently working on Laravel, Reactjs and Angular, Spring<br>👯I'm looking to collaborate on full stack web and mobile applications<br>🌱 I'm currently learning Go and Flutter<br>⚡ Fun Fact: I'm an avid outdoors-man
 
 
 ## 🌐 Socials:
